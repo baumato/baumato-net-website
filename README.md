@@ -1,2 +1,2 @@
-# baumato-net-website
+# baumato.github.io
 Webpage for baumato.net
